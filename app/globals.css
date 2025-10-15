@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🎨 FONT IMPORT - Update this URL when changing fonts */
+/* Current: Montserrat (body/all text) + BBH Sans Bartle (ONYX title only) */
+/* Get Google Fonts URLs from: https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&display=swap');
+
+@layer base {
+  body {
+    @apply bg-light-bg text-dark-text;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
