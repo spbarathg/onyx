@@ -2,7 +2,8 @@ import './globals.css'
 
 export const metadata = {
   title: 'ONYX - Elite Memecoin Intelligence',
-  description: 'Precision signals. Zero noise. Real alpha.',
+  description: 'Precision signals. Zero noise. Pure alpha.',
+  viewport: 'width=device-width, initial-scale=1, maximum-scale=5',
 }
 
 export default function RootLayout({ children }) {
