@@ -152,7 +152,7 @@ export default function Home() {
           </div>
           
           <a
-            href="https://t.me/YourTelegramBot"
+            href="https://t.me/Onyx_Subscription_bot"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 sm:px-10 py-4 sm:py-5 bg-gradient-to-r from-yellow-500 to-yellow-600 text-white font-bold text-lg sm:text-xl rounded-full hover:from-yellow-600 hover:to-yellow-700 transition-all duration-300 shadow-xl hover:shadow-2xl hover:scale-105 active:scale-95"
